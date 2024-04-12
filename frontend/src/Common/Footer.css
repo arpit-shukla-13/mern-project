@@ -1,0 +1,9 @@
+.footer-main-div{
+    background-color: skyblue;
+    position:absolute;
+    bottom: -500;
+    width: 100%;
+    text-align: center;
+    color: white;
+    padding: 5px;
+}

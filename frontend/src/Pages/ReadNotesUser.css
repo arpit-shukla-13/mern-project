@@ -1,0 +1,42 @@
+.readnotesuser-base2{
+    background-color: rgb(241, 254, 252);
+}
+
+.readnotesuser-base{
+    background-color: rgb(212, 235, 231);
+    padding: 20px;
+}
+
+.readnotesuser-main{
+    background-color: rgb(174, 197, 193);
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.readnotesuser-topic{
+    display: inline;
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(31, 66, 60);
+}
+
+.readnotesuser-subtopic{
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(19, 114, 99);
+}
+
+.readnotesuser-content{
+    font-size: 15px;
+    color: black;
+}
+
+.readnotesuser-search{
+    width: 70%;
+    font-size: 20px;
+    padding: 5px 0 5px 10px;
+    border: 3px solid rgb(174, 197, 193);
+    border-radius: 10px;
+}
+

@@ -1,0 +1,38 @@
+.mynotes-base{
+    background-color: aliceblue;
+}
+
+.mynotes-base2{
+    background-color: rgb(227, 240, 252);
+    padding: 10px;
+}
+
+.mynotes-notes{
+    background-color: rgb(204, 216, 227);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.mynotes-topic{
+    display: inline;
+    font-size: 30px;
+    font-weight: bold;
+}
+.mynotes-subtopic{
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.mynotes-content{
+    font-size: 20px;
+}
+
+.mynotes-delete{
+    color: red;
+    cursor: pointer;
+}
+
+.mynotes-edit{
+    color: blue;
+}

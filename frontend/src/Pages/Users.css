@@ -1,0 +1,39 @@
+.user-base{
+    background-color: rgb(255, 252, 248);
+}
+
+.user-main{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(254, 248, 240);
+}
+
+.user-user{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    margin: 5px;
+}
+
+.user-name{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.user-email{
+    font-size: 25px;
+}
+
+.user-contact{
+    font-size: 25px;
+}
+
+.user-address{
+    font-size: 25px;
+}
+
+.user-icon{
+    font-size: 25px;
+    color: red;
+    cursor: pointer;
+}

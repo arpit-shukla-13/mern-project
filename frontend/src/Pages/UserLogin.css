@@ -1,0 +1,33 @@
+.userlogin-base{
+    background-color: rgb(242, 250, 253);
+    height: 465px;
+}
+
+.userlogin-main{
+    background-color: rgb(206, 239, 252);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 5px 10px rgb(184, 202, 209);
+}
+
+.userlogin-input{
+    display: block;
+    font-size: 25px;
+    border: 3px solid rgb(109, 210, 250);
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+.userlogin-button{
+    font-size: 25px;
+    background-color: rgb(57, 195, 249);
+    padding: 5px 20px;
+    border: 0;
+    margin-top: 15px;
+    border-radius: 7px;
+}
+

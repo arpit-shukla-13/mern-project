@@ -1,0 +1,32 @@
+.adminlogin-main-div{
+    background-color: rgb(252, 243, 253);
+    height: 460px;
+}
+
+.adminlogin-main{
+    background-color: rgb(246, 220, 249);
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 10px rgb(221, 210, 222);;
+}
+
+.adminlogin-input-box{
+    display: block;
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+    border: 2px solid rgb(232, 141, 242);
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 10px;
+    color:rgb(86, 17, 109);
+}
+.adminlogin-button{
+    padding: 7px 20px;
+    margin-top: 20px;
+    font-size: 25px;
+    background-color: rgb(187, 107, 194);
+    border: 0px;
+    border-radius: 10px;
+}

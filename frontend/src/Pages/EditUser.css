@@ -1,0 +1,32 @@
+.edituser-base{
+    background-color: aliceblue;
+    height: 465px;
+}
+
+.edituser-main{
+    background-color: rgb(213, 226, 239);
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 8px rgb(187, 189, 191);
+}
+
+.edituser-input{
+    display: block;
+    margin: auto;
+    font-size: 25px;
+    padding: 5px 10px;
+    width: 80%;
+    border-radius: 10px;
+    border: 3px solid rgb(120, 187, 246);
+    margin-top: 5px;
+}
+
+.edituser-button{
+    font-size: 25px;
+    background-color: rgb(68, 161, 242);
+    padding: 5px 30px;
+    margin-top: 10px;
+    border: 0;
+    border-radius: 10px;
+}

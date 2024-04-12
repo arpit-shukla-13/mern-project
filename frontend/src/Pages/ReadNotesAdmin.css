@@ -1,0 +1,37 @@
+.readnoteadmin-main{
+    background-color: rgb(214, 232, 239);
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.readnoteadmin-index{
+    display: inline;
+    font-size: 25px;
+    font-weight: bold;
+    color: blue;
+}
+
+.readnoteadmin-heading{
+    display: inline;
+    font-size: 25px;
+    font-weight: bold;
+    color: blue;
+}
+
+.readnoteadmin-subheading{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(44, 44, 250);
+}
+
+.readnoteadmin-content{
+    color: black;
+    font-size: 18px;
+    padding-left: 2vw;
+}
+
+.readnoteadmin-icon{
+    display: inline;
+    margin-left: 4vw;
+}
